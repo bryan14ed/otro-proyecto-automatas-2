@@ -1,0 +1,11 @@
+class Prueba{ 
+int y=3 ;
+int x=9 ;
+int z =10;
+boolean a ;
+boolean b ;
+z=x;
+y=z+5/6*x;
+if(a<b)
+boolean hola ;
+}
